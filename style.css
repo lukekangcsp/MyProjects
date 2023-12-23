@@ -1,3 +1,35 @@
-body {
-
+body{
+  background-color: #93D3DD
+}
+h1{
+  font-size:200%;
+  color:#55286F;
+  font-family:"Verdana";
+}
+P{
+  font-size:87%;
+}
+img{
+  width:500px;
+  border-style: solid;
+  color:#CDC392;
+}
+iframe{
+  
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+}
+li{
+  float: left;
+}
+li a{
+  padding:20px;
+  color:white;
+  text-decoration: none;
+  border: solid;
+}
+li a:hover{
+  background-color: Teal;
 }
